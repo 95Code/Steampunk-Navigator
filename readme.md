@@ -1,6 +1,8 @@
 # Blender Steampunk Kompass-Uhr
 Als Projektarbeit in dem WPF Einführung in die Computergrafik habe ich zum Thema Steampunk einen Mix aus Uhr, Kompass und Navigationsgerät erstellt.
 
+![Steampunk Navigator](kompassuhr_final_render.png)
+
 # Tag 1 - Hintergrundbild
 Am ersten Tag habe ich mir lediglich eine grobe Idee überlegt, was ich machen möchte und ein passendes Hintergrundbild gemacht.
 
